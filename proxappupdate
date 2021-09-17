@@ -1,11 +1,11 @@
 {
-  "newVersion": "1.2",
-  "apkUrl": "https://www.mediafire.com/file/lfcdj1kiscke09a/izphproXallfix.apk/file",
+  "newVersion": "3.0.1",
+  "apkUrl": "https://www.mediafire.com/file/zn3p0cterlu3atk/izphproXv3.apk/file",
   "versionNotes":"• IZPH PRO X OFFICIAL •
 - Fresh Digital ocean servers.
 - Working with all networks using promonet servers and payload.
 - Supports ssh+websocket for gtmnoload.
-- Supports ssl+payload for gtm noload.
+- Remove add time
 - Clean UI and easy to use.
 - Supports online config and app update.
 
