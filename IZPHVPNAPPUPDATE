@@ -1,12 +1,9 @@
 {
-  "newVersion": "7.0",
-  "apkUrl": "https://www.mediafire.com/file/hs1584cubnnc9q6/izphvpn-test.apk/file",
+  "newVersion": "1.0.0",
+  "apkUrl": "https://www.mediafire.com/file/quzoho6o6nf8y3z/IZPH+VPN.apk/file",
   "versionNotes":"• IZPH VPN OFFICIAL •
-- Added more servers
-- Supports ssl+payload for gtmnoload only
-- Supports Gomo Noload
-- Supports Dito Noload
-- Remodified UI and easy to use.
+- Gtm noload nocap is back
+- gomo noload is also working
 - Supports online config and app update.
 
 - VPN/Server Owner: Aldrin Rapsing
@@ -14,6 +11,6 @@
 - Fb page Izph tunnel
 - Gmail: kiranoble13@gmail.com
 
--ps: kung anong payload yong pinili niyo same dapat sa server"
+-ps: may label po mga server at Payload pakibasa na lng also pag nobrowse check dns at forward udp"
 }
 
