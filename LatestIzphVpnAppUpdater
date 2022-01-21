@@ -1,1 +1,7 @@
-test
+{
+"versionCode":"20",
+"title":"test updater",
+     "link":"wala.com",
+"message":"note ",
+"force":false
+}
