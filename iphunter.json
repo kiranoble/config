@@ -1,0 +1,19 @@
+[
+  {
+    "server": "lifetime.supereftabs.com",
+    "server_port": 8080,
+    "password": "eftabs",
+    "method": "chacha20-ietf-poly1305",
+    "plugin": "v2ray-plugin",
+    "plugin_opts": "",
+    "remarks": "IPHUNTER",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  }
+]
